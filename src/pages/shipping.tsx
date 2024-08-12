@@ -60,7 +60,7 @@ const Shipping = () => {
         >
           <option value="">Select Country</option>
           <option value="india">India</option>
-          <option value="india">India</option>
+          <option value="usa">USA</option>
         </select>
         <input
           required

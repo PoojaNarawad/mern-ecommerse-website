@@ -73,7 +73,7 @@ const Search = () => {
         <ProductCard
         productId="adshsdhj" 
         name="MacbookPro"
-        Price={4545}
+        price={4545}
         stock={1343}
         handler={addToCartHandler}
         photo="https://m.media-amazon.com/images/I/71vFKBpKakL._SX522_.jpg"

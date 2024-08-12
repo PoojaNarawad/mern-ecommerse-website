@@ -44,7 +44,7 @@ const Orders = () => {
   const [rows, setRows] = useState<DataType[]>([
     {
       _id: "weghnggffvbh",
-  amount: 454544,
+  amount: 45454,
   quantity: 4,
   discount: 4000,
   status: <span className="red">Processing</span>,
